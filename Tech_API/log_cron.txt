@@ -1,0 +1,1518 @@
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-05-27 11:03:09
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-05-27 11:03:18
+Formantando dados - 2025-05-27 11:03:18
+Formatação de dados concluída - 2025-05-27 11:03:19
+Inserindo dados na base - 2025-05-27 11:03:19
+Inserção de dados concluída - 2025-05-27 11:04:53
+✅ Execução finalizada com sucesso: 2025-05-27 11:04:54
+⏱️ Tempo de execução: 1 min 45 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-05-28 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-05-28 02:00:13
+Formantando dados - 2025-05-28 02:00:13
+Formatação de dados concluída - 2025-05-28 02:00:14
+Inserindo dados na base - 2025-05-28 02:00:14
+Inserção de dados concluída - 2025-05-28 02:01:48
+0353d0d0ab2e
+✅ Execução finalizada com sucesso: 2025-05-28 02:01:49
+⏱️ Tempo de execução: 1 min 48 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-05-29 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-05-29 02:00:18
+Formantando dados - 2025-05-29 02:00:18
+Formatação de dados concluída - 2025-05-29 02:00:19
+Inserindo dados na base - 2025-05-29 02:00:19
+Inserção de dados concluída - 2025-05-29 02:01:54
+5323e8a166c3
+✅ Execução finalizada com sucesso: 2025-05-29 02:01:54
+⏱️ Tempo de execução: 1 min 53 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-05-30 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-05-30 02:00:14
+Formantando dados - 2025-05-30 02:00:14
+Formatação de dados concluída - 2025-05-30 02:00:15
+Inserindo dados na base - 2025-05-30 02:00:15
+Inserção de dados concluída - 2025-05-30 02:01:52
+df2c6986efad
+✅ Execução finalizada com sucesso: 2025-05-30 02:01:53
+⏱️ Tempo de execução: 1 min 52 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-05-31 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-05-31 02:00:14
+Formantando dados - 2025-05-31 02:00:14
+Formatação de dados concluída - 2025-05-31 02:00:15
+Inserindo dados na base - 2025-05-31 02:00:15
+Inserção de dados concluída - 2025-05-31 02:01:56
+1bc9ccedd110
+✅ Execução finalizada com sucesso: 2025-05-31 02:01:56
+⏱️ Tempo de execução: 1 min 55 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-01 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-01 02:00:12
+Formantando dados - 2025-06-01 02:00:12
+Formatação de dados concluída - 2025-06-01 02:00:13
+Inserindo dados na base - 2025-06-01 02:00:13
+Inserção de dados concluída - 2025-06-01 02:01:55
+9e1463c2bb1a
+✅ Execução finalizada com sucesso: 2025-06-01 02:01:56
+⏱️ Tempo de execução: 1 min 55 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-02 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-02 02:00:13
+Formantando dados - 2025-06-02 02:00:14
+Formatação de dados concluída - 2025-06-02 02:00:14
+Inserindo dados na base - 2025-06-02 02:00:14
+Inserção de dados concluída - 2025-06-02 02:01:57
+7b6811ed7db2
+✅ Execução finalizada com sucesso: 2025-06-02 02:01:58
+⏱️ Tempo de execução: 1 min 57 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-03 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-03 02:00:13
+Formantando dados - 2025-06-03 02:00:13
+Formatação de dados concluída - 2025-06-03 02:00:14
+Inserindo dados na base - 2025-06-03 02:00:14
+Inserção de dados concluída - 2025-06-03 02:01:56
+acdfd538f380
+✅ Execução finalizada com sucesso: 2025-06-03 02:01:57
+⏱️ Tempo de execução: 1 min 56 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-04 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-04 02:00:14
+Formantando dados - 2025-06-04 02:00:15
+Formatação de dados concluída - 2025-06-04 02:00:15
+Inserindo dados na base - 2025-06-04 02:00:15
+Inserção de dados concluída - 2025-06-04 02:02:00
+feb9ee1269a7
+✅ Execução finalizada com sucesso: 2025-06-04 02:02:00
+⏱️ Tempo de execução: 1 min 59 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-05 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-05 02:00:14
+Formantando dados - 2025-06-05 02:00:15
+Formatação de dados concluída - 2025-06-05 02:00:16
+Inserindo dados na base - 2025-06-05 02:00:16
+Inserção de dados concluída - 2025-06-05 02:02:04
+4c26fe33c586
+✅ Execução finalizada com sucesso: 2025-06-05 02:02:05
+⏱️ Tempo de execução: 2 min 4 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-06 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-06 02:00:16
+Formantando dados - 2025-06-06 02:00:16
+Formatação de dados concluída - 2025-06-06 02:00:17
+Inserindo dados na base - 2025-06-06 02:00:17
+Inserção de dados concluída - 2025-06-06 02:02:01
+5336fa0b27b7
+✅ Execução finalizada com sucesso: 2025-06-06 02:02:02
+⏱️ Tempo de execução: 2 min 1 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-07 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-07 02:00:15
+Formantando dados - 2025-06-07 02:00:16
+Formatação de dados concluída - 2025-06-07 02:00:16
+Inserindo dados na base - 2025-06-07 02:00:16
+Inserção de dados concluída - 2025-06-07 02:02:02
+1d599d7eafd0
+✅ Execução finalizada com sucesso: 2025-06-07 02:02:03
+⏱️ Tempo de execução: 2 min 2 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-08 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-08 02:00:14
+Formantando dados - 2025-06-08 02:00:14
+Formatação de dados concluída - 2025-06-08 02:00:15
+Inserindo dados na base - 2025-06-08 02:00:15
+Inserção de dados concluída - 2025-06-08 02:02:02
+1799153cf25f
+✅ Execução finalizada com sucesso: 2025-06-08 02:02:03
+⏱️ Tempo de execução: 2 min 2 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-09 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-09 02:00:17
+Formantando dados - 2025-06-09 02:00:17
+Formatação de dados concluída - 2025-06-09 02:00:18
+Inserindo dados na base - 2025-06-09 02:00:18
+Inserção de dados concluída - 2025-06-09 02:02:05
+1f2bc63ca794
+✅ Execução finalizada com sucesso: 2025-06-09 02:02:05
+⏱️ Tempo de execução: 2 min 4 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-10 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-10 02:00:12
+Formantando dados - 2025-06-10 02:00:13
+Formatação de dados concluída - 2025-06-10 02:00:14
+Inserindo dados na base - 2025-06-10 02:00:14
+Inserção de dados concluída - 2025-06-10 02:02:03
+d506b12abc61
+✅ Execução finalizada com sucesso: 2025-06-10 02:02:04
+⏱️ Tempo de execução: 2 min 3 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-11 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-11 02:00:17
+Formantando dados - 2025-06-11 02:00:17
+Formatação de dados concluída - 2025-06-11 02:00:18
+Inserindo dados na base - 2025-06-11 02:00:18
+Inserção de dados concluída - 2025-06-11 02:02:10
+419d56c7877b
+✅ Execução finalizada com sucesso: 2025-06-11 02:02:10
+⏱️ Tempo de execução: 2 min 9 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-12 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-12 02:00:16
+Formantando dados - 2025-06-12 02:00:16
+Formatação de dados concluída - 2025-06-12 02:00:17
+Inserindo dados na base - 2025-06-12 02:00:17
+Inserção de dados concluída - 2025-06-12 02:02:12
+0d9d5400c77f
+✅ Execução finalizada com sucesso: 2025-06-12 02:02:13
+⏱️ Tempo de execução: 2 min 12 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-13 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-13 02:00:14
+Formantando dados - 2025-06-13 02:00:15
+Formatação de dados concluída - 2025-06-13 02:00:15
+Inserindo dados na base - 2025-06-13 02:00:15
+Inserção de dados concluída - 2025-06-13 02:02:12
+56e0932ad2e9
+✅ Execução finalizada com sucesso: 2025-06-13 02:02:13
+⏱️ Tempo de execução: 2 min 12 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-14 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-14 02:00:15
+Formantando dados - 2025-06-14 02:00:15
+Formatação de dados concluída - 2025-06-14 02:00:16
+Inserindo dados na base - 2025-06-14 02:00:16
+Inserção de dados concluída - 2025-06-14 02:02:13
+9ee425c77bd3
+✅ Execução finalizada com sucesso: 2025-06-14 02:02:14
+⏱️ Tempo de execução: 2 min 13 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-15 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-15 02:00:14
+Formantando dados - 2025-06-15 02:00:14
+Formatação de dados concluída - 2025-06-15 02:00:15
+Inserindo dados na base - 2025-06-15 02:00:15
+Inserção de dados concluída - 2025-06-15 02:02:14
+2a8d91a9a981
+✅ Execução finalizada com sucesso: 2025-06-15 02:02:15
+⏱️ Tempo de execução: 2 min 14 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-16 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-16 02:00:25
+Formantando dados - 2025-06-16 02:00:25
+Formatação de dados concluída - 2025-06-16 02:00:26
+Inserindo dados na base - 2025-06-16 02:00:26
+Inserção de dados concluída - 2025-06-16 02:02:24
+7ede546a7a38
+✅ Execução finalizada com sucesso: 2025-06-16 02:02:25
+⏱️ Tempo de execução: 2 min 24 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-17 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-17 02:00:14
+Formantando dados - 2025-06-17 02:00:15
+Formatação de dados concluída - 2025-06-17 02:00:16
+Inserindo dados na base - 2025-06-17 02:00:16
+Inserção de dados concluída - 2025-06-17 02:02:11
+32f42fb54329
+fabea8415683
+✅ Execução finalizada com sucesso: 2025-06-17 02:02:12
+⏱️ Tempo de execução: 2 min 11 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-18 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-18 02:00:17
+Formantando dados - 2025-06-18 02:00:18
+Formatação de dados concluída - 2025-06-18 02:00:19
+Inserindo dados na base - 2025-06-18 02:00:19
+Inserção de dados concluída - 2025-06-18 02:02:16
+bfd26970af44
+✅ Execução finalizada com sucesso: 2025-06-18 02:02:17
+⏱️ Tempo de execução: 2 min 16 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-19 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-19 02:00:14
+Formantando dados - 2025-06-19 02:00:14
+Formatação de dados concluída - 2025-06-19 02:00:15
+Inserindo dados na base - 2025-06-19 02:00:15
+Inserção de dados concluída - 2025-06-19 02:02:22
+ece94274faa6
+✅ Execução finalizada com sucesso: 2025-06-19 02:02:22
+⏱️ Tempo de execução: 2 min 21 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-20 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-20 02:00:16
+Formantando dados - 2025-06-20 02:00:17
+Formatação de dados concluída - 2025-06-20 02:00:18
+Inserindo dados na base - 2025-06-20 02:00:18
+Inserção de dados concluída - 2025-06-20 02:02:23
+4169e7769e9d
+✅ Execução finalizada com sucesso: 2025-06-20 02:02:23
+⏱️ Tempo de execução: 2 min 22 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-21 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-21 02:00:18
+Formantando dados - 2025-06-21 02:00:19
+Formatação de dados concluída - 2025-06-21 02:00:20
+Inserindo dados na base - 2025-06-21 02:00:20
+Inserção de dados concluída - 2025-06-21 02:02:27
+8d055ac9dbf2
+✅ Execução finalizada com sucesso: 2025-06-21 02:02:27
+⏱️ Tempo de execução: 2 min 26 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-22 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-22 02:00:18
+Formantando dados - 2025-06-22 02:00:18
+Formatação de dados concluída - 2025-06-22 02:00:19
+Inserindo dados na base - 2025-06-22 02:00:19
+Inserção de dados concluída - 2025-06-22 02:02:25
+e4b548353ccb
+✅ Execução finalizada com sucesso: 2025-06-22 02:02:25
+⏱️ Tempo de execução: 2 min 24 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-23 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-23 02:00:16
+Formantando dados - 2025-06-23 02:00:16
+Formatação de dados concluída - 2025-06-23 02:00:17
+Inserindo dados na base - 2025-06-23 02:00:17
+Inserção de dados concluída - 2025-06-23 02:02:24
+699e33b7ed89
+✅ Execução finalizada com sucesso: 2025-06-23 02:02:25
+⏱️ Tempo de execução: 2 min 23 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-24 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-24 02:00:15
+Formantando dados - 2025-06-24 02:00:15
+Formatação de dados concluída - 2025-06-24 02:00:16
+Inserindo dados na base - 2025-06-24 02:00:16
+Inserção de dados concluída - 2025-06-24 02:02:22
+ba0910097a48
+✅ Execução finalizada com sucesso: 2025-06-24 02:02:23
+⏱️ Tempo de execução: 2 min 22 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-25 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-25 02:00:15
+Formantando dados - 2025-06-25 02:00:16
+Formatação de dados concluída - 2025-06-25 02:00:17
+Inserindo dados na base - 2025-06-25 02:00:17
+Inserção de dados concluída - 2025-06-25 02:02:27
+e503ccf21df6
+✅ Execução finalizada com sucesso: 2025-06-25 02:02:28
+⏱️ Tempo de execução: 2 min 27 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-26 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-26 02:00:16
+Formantando dados - 2025-06-26 02:00:16
+Formatação de dados concluída - 2025-06-26 02:00:17
+Inserindo dados na base - 2025-06-26 02:00:17
+Inserção de dados concluída - 2025-06-26 02:02:26
+2c3d8de13325
+✅ Execução finalizada com sucesso: 2025-06-26 02:02:27
+⏱️ Tempo de execução: 2 min 26 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-27 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-27 02:00:21
+Formantando dados - 2025-06-27 02:00:21
+Formatação de dados concluída - 2025-06-27 02:00:22
+Inserindo dados na base - 2025-06-27 02:00:22
+Inserção de dados concluída - 2025-06-27 02:02:33
+03ca1b414b88
+✅ Execução finalizada com sucesso: 2025-06-27 02:02:34
+⏱️ Tempo de execução: 2 min 33 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-28 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-28 02:00:16
+Formantando dados - 2025-06-28 02:00:16
+Formatação de dados concluída - 2025-06-28 02:00:17
+Inserindo dados na base - 2025-06-28 02:00:17
+Inserção de dados concluída - 2025-06-28 02:02:34
+471b3b7dc4cc
+✅ Execução finalizada com sucesso: 2025-06-28 02:02:35
+⏱️ Tempo de execução: 2 min 34 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-29 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-29 02:00:15
+Formantando dados - 2025-06-29 02:00:15
+Formatação de dados concluída - 2025-06-29 02:00:16
+Inserindo dados na base - 2025-06-29 02:00:16
+Inserção de dados concluída - 2025-06-29 02:02:31
+c153bd005d4f
+✅ Execução finalizada com sucesso: 2025-06-29 02:02:31
+⏱️ Tempo de execução: 2 min 30 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-06-30 02:00:02
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-06-30 02:00:24
+Formantando dados - 2025-06-30 02:00:24
+Formatação de dados concluída - 2025-06-30 02:00:25
+Inserindo dados na base - 2025-06-30 02:00:25
+Inserção de dados concluída - 2025-06-30 02:02:38
+1de4d3874b6d
+✅ Execução finalizada com sucesso: 2025-06-30 02:02:39
+⏱️ Tempo de execução: 2 min 37 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-01 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-01 02:00:14
+Formantando dados - 2025-07-01 02:00:14
+Formatação de dados concluída - 2025-07-01 02:00:15
+Inserindo dados na base - 2025-07-01 02:00:15
+Inserção de dados concluída - 2025-07-01 02:02:32
+ea62bf6a0a54
+✅ Execução finalizada com sucesso: 2025-07-01 02:02:33
+⏱️ Tempo de execução: 2 min 32 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-02 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-02 02:00:16
+Formantando dados - 2025-07-02 02:00:17
+Formatação de dados concluída - 2025-07-02 02:00:18
+Inserindo dados na base - 2025-07-02 02:00:18
+Inserção de dados concluída - 2025-07-02 02:02:35
+f9d9a20ea21a
+✅ Execução finalizada com sucesso: 2025-07-02 02:02:35
+⏱️ Tempo de execução: 2 min 34 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-03 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-03 02:00:17
+Formantando dados - 2025-07-03 02:00:18
+Formatação de dados concluída - 2025-07-03 02:00:19
+Inserindo dados na base - 2025-07-03 02:00:19
+Inserção de dados concluída - 2025-07-03 02:02:35
+5bf1677493f8
+✅ Execução finalizada com sucesso: 2025-07-03 02:02:36
+⏱️ Tempo de execução: 2 min 35 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-04 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-04 02:00:15
+Formantando dados - 2025-07-04 02:00:15
+Formatação de dados concluída - 2025-07-04 02:00:16
+Inserindo dados na base - 2025-07-04 02:00:16
+Inserção de dados concluída - 2025-07-04 02:02:36
+fa7a3d2ca49a
+✅ Execução finalizada com sucesso: 2025-07-04 02:02:37
+⏱️ Tempo de execução: 2 min 36 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-05 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-05 02:00:17
+Formantando dados - 2025-07-05 02:00:17
+Formatação de dados concluída - 2025-07-05 02:00:18
+Inserindo dados na base - 2025-07-05 02:00:18
+Inserção de dados concluída - 2025-07-05 02:02:36
+3711baca8645
+✅ Execução finalizada com sucesso: 2025-07-05 02:02:37
+⏱️ Tempo de execução: 2 min 36 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-06 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-06 02:00:13
+Formantando dados - 2025-07-06 02:00:13
+Formatação de dados concluída - 2025-07-06 02:00:14
+Inserindo dados na base - 2025-07-06 02:00:14
+Inserção de dados concluída - 2025-07-06 02:02:34
+5a08fb022475
+✅ Execução finalizada com sucesso: 2025-07-06 02:02:35
+⏱️ Tempo de execução: 2 min 34 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-07 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-07 02:00:19
+Formantando dados - 2025-07-07 02:00:19
+Formatação de dados concluída - 2025-07-07 02:00:20
+Inserindo dados na base - 2025-07-07 02:00:20
+Inserção de dados concluída - 2025-07-07 02:02:43
+84fed3541e8f
+✅ Execução finalizada com sucesso: 2025-07-07 02:02:44
+⏱️ Tempo de execução: 2 min 43 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-08 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-08 02:00:21
+Formantando dados - 2025-07-08 02:00:22
+Formatação de dados concluída - 2025-07-08 02:00:23
+Inserindo dados na base - 2025-07-08 02:00:23
+Inserção de dados concluída - 2025-07-08 02:02:44
+e52d2224625f
+✅ Execução finalizada com sucesso: 2025-07-08 02:02:45
+⏱️ Tempo de execução: 2 min 44 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-09 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-09 02:00:18
+Formantando dados - 2025-07-09 02:00:19
+Formatação de dados concluída - 2025-07-09 02:00:20
+Inserindo dados na base - 2025-07-09 02:00:20
+Inserção de dados concluída - 2025-07-09 02:02:45
+e0ff4f649d36
+✅ Execução finalizada com sucesso: 2025-07-09 02:02:46
+⏱️ Tempo de execução: 2 min 45 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-10 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-10 02:01:08
+Formantando dados - 2025-07-10 02:01:08
+Formatação de dados concluída - 2025-07-10 02:01:09
+Inserindo dados na base - 2025-07-10 02:01:09
+Inserção de dados concluída - 2025-07-10 02:03:39
+d3310338a605
+✅ Execução finalizada com sucesso: 2025-07-10 02:03:39
+⏱️ Tempo de execução: 3 min 38 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-11 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-11 02:00:20
+Formantando dados - 2025-07-11 02:00:21
+Formatação de dados concluída - 2025-07-11 02:00:22
+Inserindo dados na base - 2025-07-11 02:00:22
+Inserção de dados concluída - 2025-07-11 02:02:52
+2df7d189f96b
+✅ Execução finalizada com sucesso: 2025-07-11 02:02:52
+⏱️ Tempo de execução: 2 min 51 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-12 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-12 02:00:15
+Formantando dados - 2025-07-12 02:00:16
+Formatação de dados concluída - 2025-07-12 02:00:17
+Inserindo dados na base - 2025-07-12 02:00:17
+Inserção de dados concluída - 2025-07-12 02:02:49
+4f583b94e8f9
+✅ Execução finalizada com sucesso: 2025-07-12 02:02:50
+⏱️ Tempo de execução: 2 min 49 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-13 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-13 02:00:15
+Formantando dados - 2025-07-13 02:00:16
+Formatação de dados concluída - 2025-07-13 02:00:17
+Inserindo dados na base - 2025-07-13 02:00:17
+Inserção de dados concluída - 2025-07-13 02:02:51
+343b6c30b2a1
+✅ Execução finalizada com sucesso: 2025-07-13 02:02:51
+⏱️ Tempo de execução: 2 min 50 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-14 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-14 02:00:19
+Formantando dados - 2025-07-14 02:00:20
+Formatação de dados concluída - 2025-07-14 02:00:21
+Inserindo dados na base - 2025-07-14 02:00:21
+Inserção de dados concluída - 2025-07-14 02:02:56
+eb206c5d9cca
+✅ Execução finalizada com sucesso: 2025-07-14 02:02:57
+⏱️ Tempo de execução: 2 min 56 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-15 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-15 02:00:18
+Formantando dados - 2025-07-15 02:00:19
+Formatação de dados concluída - 2025-07-15 02:00:20
+Inserindo dados na base - 2025-07-15 02:00:20
+Inserção de dados concluída - 2025-07-15 02:02:54
+f89c4288f706
+✅ Execução finalizada com sucesso: 2025-07-15 02:02:55
+⏱️ Tempo de execução: 2 min 54 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-16 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.13/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "/usr/local/lib/python3.13/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/usr/local/lib/python3.13/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+    ~~~~~~~~~~~~^^^^
+OSError: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.13/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/usr/local/lib/python3.13/site-packages/urllib3/connectionpool.py", line 493, in _make_request
+    conn.request(
+    ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<6 lines>...
+        enforce_content_length=enforce_content_length,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/lib/python3.13/site-packages/urllib3/connection.py", line 445, in request
+    self.endheaders()
+    ~~~~~~~~~~~~~~~^^
+  File "/usr/local/lib/python3.13/http/client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/http/client.py", line 1093, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "/usr/local/lib/python3.13/http/client.py", line 1037, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "/usr/local/lib/python3.13/site-packages/urllib3/connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ~~~~~~~~~~~~~~^^
+  File "/usr/local/lib/python3.13/site-packages/urllib3/connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+        self, f"Failed to establish a new connection: {e}"
+    ) from e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x76389e5063c0>: Failed to establish a new connection: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.13/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/usr/local/lib/python3.13/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/usr/local/lib/python3.13/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='134.65.20.167', port=8050): Max retries exceeded with url: /query (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x76389e5063c0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/dataflowpx/app.py", line 137, in <module>
+    add_animal()
+    ~~~~~~~~~~^^
+  File "/app/dataflowpx/app.py", line 77, in add_animal
+    response = request_database()
+  File "/app/dataflowpx/app.py", line 35, in request_database
+    dados = busca_sap_api_query(query)
+  File "/app/dataflowpx/auth.py", line 19, in busca_sap_api_query
+    response = cnct_api_liberali(query, "query")
+  File "/app/dataflowpx/auth.py", line 11, in cnct_api_liberali
+    response = requests.request("POST", url, headers=headers, data=requisicao)
+  File "/usr/local/lib/python3.13/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.13/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python3.13/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='134.65.20.167', port=8050): Max retries exceeded with url: /query (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x76389e5063c0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+8bad43e546d8
+❌ Erro durante a execução: 2025-07-16 02:00:08
+⏱️ Tempo de execução: 0 min 7 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-17 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-17 02:00:16
+Formantando dados - 2025-07-17 02:00:17
+Formatação de dados concluída - 2025-07-17 02:00:18
+Inserindo dados na base - 2025-07-17 02:00:18
+Inserção de dados concluída - 2025-07-17 02:02:52
+a26ca467a6d5
+✅ Execução finalizada com sucesso: 2025-07-17 02:02:53
+⏱️ Tempo de execução: 2 min 52 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-18 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-18 02:00:22
+Formantando dados - 2025-07-18 02:00:22
+Formatação de dados concluída - 2025-07-18 02:00:23
+Inserindo dados na base - 2025-07-18 02:00:23
+Inserção de dados concluída - 2025-07-18 02:02:57
+dce5a75a44b8
+✅ Execução finalizada com sucesso: 2025-07-18 02:02:57
+⏱️ Tempo de execução: 2 min 56 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-19 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-19 02:00:24
+Formantando dados - 2025-07-19 02:00:24
+Formatação de dados concluída - 2025-07-19 02:00:25
+Inserindo dados na base - 2025-07-19 02:00:25
+Inserção de dados concluída - 2025-07-19 02:03:02
+143c785f2f22
+✅ Execução finalizada com sucesso: 2025-07-19 02:03:03
+⏱️ Tempo de execução: 3 min 2 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-20 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-20 02:00:25
+Formantando dados - 2025-07-20 02:00:26
+Formatação de dados concluída - 2025-07-20 02:00:27
+Inserindo dados na base - 2025-07-20 02:00:27
+Inserção de dados concluída - 2025-07-20 02:03:02
+a20b43f41441
+✅ Execução finalizada com sucesso: 2025-07-20 02:03:02
+⏱️ Tempo de execução: 3 min 1 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-21 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.13/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "/usr/local/lib/python3.13/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/usr/local/lib/python3.13/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+    ~~~~~~~~~~~~^^^^
+OSError: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.13/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/usr/local/lib/python3.13/site-packages/urllib3/connectionpool.py", line 493, in _make_request
+    conn.request(
+    ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<6 lines>...
+        enforce_content_length=enforce_content_length,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/lib/python3.13/site-packages/urllib3/connection.py", line 445, in request
+    self.endheaders()
+    ~~~~~~~~~~~~~~~^^
+  File "/usr/local/lib/python3.13/http/client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/http/client.py", line 1093, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "/usr/local/lib/python3.13/http/client.py", line 1037, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "/usr/local/lib/python3.13/site-packages/urllib3/connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ~~~~~~~~~~~~~~^^
+  File "/usr/local/lib/python3.13/site-packages/urllib3/connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+        self, f"Failed to establish a new connection: {e}"
+    ) from e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x71e4b6b063c0>: Failed to establish a new connection: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.13/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/usr/local/lib/python3.13/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/usr/local/lib/python3.13/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='134.65.20.167', port=8050): Max retries exceeded with url: /query (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x71e4b6b063c0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/dataflowpx/app.py", line 137, in <module>
+    add_animal()
+    ~~~~~~~~~~^^
+  File "/app/dataflowpx/app.py", line 77, in add_animal
+    response = request_database()
+  File "/app/dataflowpx/app.py", line 35, in request_database
+    dados = busca_sap_api_query(query)
+  File "/app/dataflowpx/auth.py", line 19, in busca_sap_api_query
+    response = cnct_api_liberali(query, "query")
+  File "/app/dataflowpx/auth.py", line 11, in cnct_api_liberali
+    response = requests.request("POST", url, headers=headers, data=requisicao)
+  File "/usr/local/lib/python3.13/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.13/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python3.13/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='134.65.20.167', port=8050): Max retries exceeded with url: /query (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x71e4b6b063c0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+be5bba8a6366
+❌ Erro durante a execução: 2025-07-21 02:00:07
+⏱️ Tempo de execução: 0 min 6 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-22 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-22 02:00:20
+Formantando dados - 2025-07-22 02:00:20
+Formatação de dados concluída - 2025-07-22 02:00:21
+Inserindo dados na base - 2025-07-22 02:00:21
+Inserção de dados concluída - 2025-07-22 02:02:59
+6ed1d577ce7b
+✅ Execução finalizada com sucesso: 2025-07-22 02:02:59
+⏱️ Tempo de execução: 2 min 58 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-23 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-23 02:00:22
+Formantando dados - 2025-07-23 02:00:23
+Formatação de dados concluída - 2025-07-23 02:00:24
+Inserindo dados na base - 2025-07-23 02:00:24
+Inserção de dados concluída - 2025-07-23 02:03:03
+b21edbec203b
+✅ Execução finalizada com sucesso: 2025-07-23 02:03:04
+⏱️ Tempo de execução: 3 min 3 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-24 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-24 02:00:21
+Formantando dados - 2025-07-24 02:00:22
+Formatação de dados concluída - 2025-07-24 02:00:23
+Inserindo dados na base - 2025-07-24 02:00:23
+Inserção de dados concluída - 2025-07-24 02:03:03
+2ef753ab3e8a
+✅ Execução finalizada com sucesso: 2025-07-24 02:03:04
+⏱️ Tempo de execução: 3 min 3 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-25 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-25 02:00:22
+Formantando dados - 2025-07-25 02:00:23
+Formatação de dados concluída - 2025-07-25 02:00:24
+Inserindo dados na base - 2025-07-25 02:00:24
+Inserção de dados concluída - 2025-07-25 02:03:05
+2b7713a443f1
+✅ Execução finalizada com sucesso: 2025-07-25 02:03:06
+⏱️ Tempo de execução: 3 min 5 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-26 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-26 02:00:19
+Formantando dados - 2025-07-26 02:00:20
+Formatação de dados concluída - 2025-07-26 02:00:21
+Inserindo dados na base - 2025-07-26 02:00:21
+Inserção de dados concluída - 2025-07-26 02:03:00
+e1f6636edf82
+✅ Execução finalizada com sucesso: 2025-07-26 02:03:01
+⏱️ Tempo de execução: 3 min 0 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-27 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-27 02:00:32
+Formantando dados - 2025-07-27 02:00:33
+Formatação de dados concluída - 2025-07-27 02:00:34
+Inserindo dados na base - 2025-07-27 02:00:34
+Inserção de dados concluída - 2025-07-27 02:03:14
+131c72d92522
+✅ Execução finalizada com sucesso: 2025-07-27 02:03:15
+⏱️ Tempo de execução: 3 min 14 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-28 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-28 02:00:27
+Formantando dados - 2025-07-28 02:00:27
+Formatação de dados concluída - 2025-07-28 02:00:28
+Inserindo dados na base - 2025-07-28 02:00:28
+Inserção de dados concluída - 2025-07-28 02:03:08
+0787a96846a9
+✅ Execução finalizada com sucesso: 2025-07-28 02:03:09
+⏱️ Tempo de execução: 3 min 8 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-29 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-29 02:00:25
+Formantando dados - 2025-07-29 02:00:26
+Formatação de dados concluída - 2025-07-29 02:00:27
+Inserindo dados na base - 2025-07-29 02:00:27
+Inserção de dados concluída - 2025-07-29 02:03:05
+90b9f39acf4d
+✅ Execução finalizada com sucesso: 2025-07-29 02:03:06
+⏱️ Tempo de execução: 3 min 5 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-30 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-30 02:00:23
+Formantando dados - 2025-07-30 02:00:23
+Formatação de dados concluída - 2025-07-30 02:00:24
+Inserindo dados na base - 2025-07-30 02:00:24
+Inserção de dados concluída - 2025-07-30 02:03:06
+da58d4287c15
+✅ Execução finalizada com sucesso: 2025-07-30 02:03:07
+⏱️ Tempo de execução: 3 min 6 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-07-31 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-07-31 02:00:22
+Formantando dados - 2025-07-31 02:00:23
+Formatação de dados concluída - 2025-07-31 02:00:24
+Inserindo dados na base - 2025-07-31 02:00:24
+Inserção de dados concluída - 2025-07-31 02:03:09
+4273dffd3500
+✅ Execução finalizada com sucesso: 2025-07-31 02:03:10
+⏱️ Tempo de execução: 3 min 9 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-01 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-01 02:00:21
+Formantando dados - 2025-08-01 02:00:22
+Formatação de dados concluída - 2025-08-01 02:00:23
+Inserindo dados na base - 2025-08-01 02:00:23
+Inserção de dados concluída - 2025-08-01 02:03:06
+fff128429971
+✅ Execução finalizada com sucesso: 2025-08-01 02:03:07
+⏱️ Tempo de execução: 3 min 6 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-02 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-02 02:00:21
+Formantando dados - 2025-08-02 02:00:21
+Formatação de dados concluída - 2025-08-02 02:00:23
+Inserindo dados na base - 2025-08-02 02:00:23
+Inserção de dados concluída - 2025-08-02 02:03:33
+efdab404c610
+✅ Execução finalizada com sucesso: 2025-08-02 02:03:34
+⏱️ Tempo de execução: 3 min 33 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-03 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-03 02:00:20
+Formantando dados - 2025-08-03 02:00:20
+Formatação de dados concluída - 2025-08-03 02:00:21
+Inserindo dados na base - 2025-08-03 02:00:21
+Inserção de dados concluída - 2025-08-03 02:03:11
+65c1eeb7c9b4
+✅ Execução finalizada com sucesso: 2025-08-03 02:03:12
+⏱️ Tempo de execução: 3 min 11 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-04 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-04 02:00:21
+Formantando dados - 2025-08-04 02:00:21
+Formatação de dados concluída - 2025-08-04 02:00:23
+Inserindo dados na base - 2025-08-04 02:00:23
+Inserção de dados concluída - 2025-08-04 02:03:13
+0455cb664bfa
+✅ Execução finalizada com sucesso: 2025-08-04 02:03:14
+⏱️ Tempo de execução: 3 min 13 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-05 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-05 02:00:22
+Formantando dados - 2025-08-05 02:00:22
+Formatação de dados concluída - 2025-08-05 02:00:23
+Inserindo dados na base - 2025-08-05 02:00:23
+Inserção de dados concluída - 2025-08-05 02:03:19
+13bec4b7e688
+✅ Execução finalizada com sucesso: 2025-08-05 02:03:19
+⏱️ Tempo de execução: 3 min 18 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-06 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-06 02:00:14
+Formantando dados - 2025-08-06 02:00:15
+Formatação de dados concluída - 2025-08-06 02:00:16
+Inserindo dados na base - 2025-08-06 02:00:16
+Inserção de dados concluída - 2025-08-06 02:03:09
+b7a3c5681952
+✅ Execução finalizada com sucesso: 2025-08-06 02:03:10
+⏱️ Tempo de execução: 3 min 9 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-07 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-07 02:00:15
+Formantando dados - 2025-08-07 02:00:16
+Formatação de dados concluída - 2025-08-07 02:00:17
+Inserindo dados na base - 2025-08-07 02:00:17
+Inserção de dados concluída - 2025-08-07 02:03:07
+72047cc66957
+✅ Execução finalizada com sucesso: 2025-08-07 02:03:08
+⏱️ Tempo de execução: 3 min 7 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-08 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-08 02:00:22
+Formantando dados - 2025-08-08 02:00:22
+Formatação de dados concluída - 2025-08-08 02:00:23
+Inserindo dados na base - 2025-08-08 02:00:23
+Inserção de dados concluída - 2025-08-08 02:03:14
+422339ce6fe8
+✅ Execução finalizada com sucesso: 2025-08-08 02:03:14
+⏱️ Tempo de execução: 3 min 13 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-09 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-09 02:00:17
+Formantando dados - 2025-08-09 02:00:17
+Formatação de dados concluída - 2025-08-09 02:00:18
+Inserindo dados na base - 2025-08-09 02:00:18
+Inserção de dados concluída - 2025-08-09 02:03:10
+5e5972fa1299
+✅ Execução finalizada com sucesso: 2025-08-09 02:03:11
+⏱️ Tempo de execução: 3 min 10 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-10 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-10 02:00:22
+Formantando dados - 2025-08-10 02:00:22
+Formatação de dados concluída - 2025-08-10 02:00:23
+Inserindo dados na base - 2025-08-10 02:00:23
+Inserção de dados concluída - 2025-08-10 02:03:15
+3dc1f3f3e5ce
+✅ Execução finalizada com sucesso: 2025-08-10 02:03:15
+⏱️ Tempo de execução: 3 min 14 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-11 02:00:02
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-11 02:00:19
+Formantando dados - 2025-08-11 02:00:19
+Formatação de dados concluída - 2025-08-11 02:00:20
+Inserindo dados na base - 2025-08-11 02:00:20
+Inserção de dados concluída - 2025-08-11 02:03:12
+3ea61a8c310e
+✅ Execução finalizada com sucesso: 2025-08-11 02:03:13
+⏱️ Tempo de execução: 3 min 11 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-12 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-12 02:00:51
+Formantando dados - 2025-08-12 02:00:52
+Formatação de dados concluída - 2025-08-12 02:00:53
+Inserindo dados na base - 2025-08-12 02:00:53
+Inserção de dados concluída - 2025-08-12 02:03:44
+0194ce55bc7a
+✅ Execução finalizada com sucesso: 2025-08-12 02:03:44
+⏱️ Tempo de execução: 3 min 43 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-13 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-13 02:00:17
+Formantando dados - 2025-08-13 02:00:18
+Formatação de dados concluída - 2025-08-13 02:00:19
+Inserindo dados na base - 2025-08-13 02:00:19
+Inserção de dados concluída - 2025-08-13 02:03:12
+9028d7f90625
+✅ Execução finalizada com sucesso: 2025-08-13 02:03:13
+⏱️ Tempo de execução: 3 min 12 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-14 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-14 02:00:23
+Formantando dados - 2025-08-14 02:00:24
+Formatação de dados concluída - 2025-08-14 02:00:25
+Inserindo dados na base - 2025-08-14 02:00:25
+Inserção de dados concluída - 2025-08-14 02:03:18
+d69a362c200a
+✅ Execução finalizada com sucesso: 2025-08-14 02:03:18
+⏱️ Tempo de execução: 3 min 17 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-15 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-15 02:00:16
+Formantando dados - 2025-08-15 02:00:17
+Formatação de dados concluída - 2025-08-15 02:00:18
+Inserindo dados na base - 2025-08-15 02:00:18
+Inserção de dados concluída - 2025-08-15 02:03:11
+a047214ae957
+✅ Execução finalizada com sucesso: 2025-08-15 02:03:11
+⏱️ Tempo de execução: 3 min 10 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-16 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-16 02:00:15
+Formantando dados - 2025-08-16 02:00:15
+Formatação de dados concluída - 2025-08-16 02:00:16
+Inserindo dados na base - 2025-08-16 02:00:16
+Inserção de dados concluída - 2025-08-16 02:03:08
+c435fe925f62
+✅ Execução finalizada com sucesso: 2025-08-16 02:03:08
+⏱️ Tempo de execução: 3 min 7 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-17 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-17 02:00:26
+Formantando dados - 2025-08-17 02:00:27
+Formatação de dados concluída - 2025-08-17 02:00:28
+Inserindo dados na base - 2025-08-17 02:00:28
+Inserção de dados concluída - 2025-08-17 02:03:21
+f053b62fb2d3
+✅ Execução finalizada com sucesso: 2025-08-17 02:03:21
+⏱️ Tempo de execução: 3 min 20 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-18 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-18 02:00:17
+Formantando dados - 2025-08-18 02:00:18
+Formatação de dados concluída - 2025-08-18 02:00:19
+Inserindo dados na base - 2025-08-18 02:00:19
+Inserção de dados concluída - 2025-08-18 02:03:11
+98815688650c
+✅ Execução finalizada com sucesso: 2025-08-18 02:03:11
+⏱️ Tempo de execução: 3 min 10 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-19 02:00:01
+ Container tech_api-techapi_database-1  Created
+ Container tech_api-techapi_database-1  Starting
+ Container tech_api-techapi_database-1  Started
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-19 02:00:29
+Formantando dados - 2025-08-19 02:00:30
+Formatação de dados concluída - 2025-08-19 02:00:31
+Inserindo dados na base - 2025-08-19 02:00:31
+Inserção de dados concluída - 2025-08-19 02:03:03
+1afda166f8d0
+c62312474bbd
+✅ Execução finalizada com sucesso: 2025-08-19 02:03:04
+⏱️ Tempo de execução: 3 min 3 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-20 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-20 02:00:13
+Formantando dados - 2025-08-20 02:00:13
+Formatação de dados concluída - 2025-08-20 02:00:15
+Inserindo dados na base - 2025-08-20 02:00:15
+Inserção de dados concluída - 2025-08-20 02:02:48
+7193aa178143
+✅ Execução finalizada com sucesso: 2025-08-20 02:02:49
+⏱️ Tempo de execução: 2 min 48 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-21 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-21 02:00:23
+Formantando dados - 2025-08-21 02:00:24
+Formatação de dados concluída - 2025-08-21 02:00:25
+Inserindo dados na base - 2025-08-21 02:00:25
+Inserção de dados concluída - 2025-08-21 02:03:04
+ec8ca780ef29
+0aff55edaf66
+✅ Execução finalizada com sucesso: 2025-08-21 02:03:04
+⏱️ Tempo de execução: 3 min 3 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-22 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-22 02:00:22
+Formantando dados - 2025-08-22 02:00:22
+Formatação de dados concluída - 2025-08-22 02:00:23
+Inserindo dados na base - 2025-08-22 02:00:23
+Inserção de dados concluída - 2025-08-22 02:03:02
+d0d15a1d0647
+✅ Execução finalizada com sucesso: 2025-08-22 02:03:03
+⏱️ Tempo de execução: 3 min 2 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-23 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-23 02:00:15
+Formantando dados - 2025-08-23 02:00:16
+Formatação de dados concluída - 2025-08-23 02:00:17
+Inserindo dados na base - 2025-08-23 02:00:17
+Inserção de dados concluída - 2025-08-23 02:02:58
+237d48103c27
+✅ Execução finalizada com sucesso: 2025-08-23 02:02:58
+⏱️ Tempo de execução: 2 min 57 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-24 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-24 02:00:23
+Formantando dados - 2025-08-24 02:00:24
+Formatação de dados concluída - 2025-08-24 02:00:25
+Inserindo dados na base - 2025-08-24 02:00:25
+Inserção de dados concluída - 2025-08-24 02:03:06
+7f7e59898c00
+✅ Execução finalizada com sucesso: 2025-08-24 02:03:06
+⏱️ Tempo de execução: 3 min 5 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-25 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-25 02:00:20
+Formantando dados - 2025-08-25 02:00:21
+Formatação de dados concluída - 2025-08-25 02:00:22
+Inserindo dados na base - 2025-08-25 02:00:22
+Inserção de dados concluída - 2025-08-25 02:03:04
+f6840d873fcc
+✅ Execução finalizada com sucesso: 2025-08-25 02:03:05
+⏱️ Tempo de execução: 3 min 4 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-26 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-26 02:00:25
+Formantando dados - 2025-08-26 02:00:25
+Formatação de dados concluída - 2025-08-26 02:00:26
+Inserindo dados na base - 2025-08-26 02:00:26
+Inserção de dados concluída - 2025-08-26 02:03:07
+606da2ed7726
+✅ Execução finalizada com sucesso: 2025-08-26 02:03:08
+⏱️ Tempo de execução: 3 min 7 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-27 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-27 02:00:19
+Formantando dados - 2025-08-27 02:00:20
+Formatação de dados concluída - 2025-08-27 02:00:21
+Inserindo dados na base - 2025-08-27 02:00:21
+Inserção de dados concluída - 2025-08-27 02:03:02
+3c26e3c20b03
+✅ Execução finalizada com sucesso: 2025-08-27 02:03:02
+⏱️ Tempo de execução: 3 min 1 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-28 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-28 02:00:24
+Formantando dados - 2025-08-28 02:00:24
+Formatação de dados concluída - 2025-08-28 02:00:25
+Inserindo dados na base - 2025-08-28 02:00:25
+Inserção de dados concluída - 2025-08-28 02:03:10
+6711ef8f48a8
+✅ Execução finalizada com sucesso: 2025-08-28 02:03:11
+⏱️ Tempo de execução: 3 min 10 seg
+--------------------------------------------------
+--------------------------------------------------
+Fuso horário atual: America/Sao_Paulo
+Execução iniciada em: 2025-08-29 02:00:01
+ Container tech_api-techapi_database-1  Running
+Skipping virtualenv creation, as specified in config file.
+Consultando tabelas - 2025-08-29 02:00:28
+Formantando dados - 2025-08-29 02:00:28
+Formatação de dados concluída - 2025-08-29 02:00:29
+Inserindo dados na base - 2025-08-29 02:00:29
+Inserção de dados concluída - 2025-08-29 02:03:10
+63f2140e3b06
+✅ Execução finalizada com sucesso: 2025-08-29 02:03:11
+⏱️ Tempo de execução: 3 min 10 seg
+--------------------------------------------------

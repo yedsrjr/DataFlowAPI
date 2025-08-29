@@ -37,7 +37,6 @@ class AnimalOut(BaseModel):
     data_saida: Optional[date] = None
     peso_saida: Optional[float] = None
     proprietario: str
-    cod_pelagem: Optional[int] = None
     model_config = ConfigDict(from_attributes=True)
 
 

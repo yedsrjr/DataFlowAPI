@@ -8,7 +8,7 @@ services:
       POSTGRES_DB: app_db
       POSTGRES_PASSWORD: app_password
     ports:
-      - "5432:5432"
+      - "5435:5432"
     env_file:
     - .env
 
@@ -24,7 +24,7 @@ services:
       - .env
     
   tech_api_auto:
-    image: automacao
+    image: automation
     build:
       context: ../DataFlowPx
     env_file:
@@ -34,3 +34,4 @@ services:
 
 volumes:
   pgdata:
+  
